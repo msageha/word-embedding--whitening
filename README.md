@@ -1,4 +1,4 @@
-# STS-B Sentence Embedding Evaluation with PCA / Zipfian Whitening / SIF
+# Word Embedding Whitening
 
 このリポジトリは、STS-B(STS-Benchmark)データセットを用いて以下の手法による文埋め込み間類似度評価を行うスクリプトを提供します。
 
