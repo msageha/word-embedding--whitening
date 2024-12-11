@@ -38,6 +38,9 @@ pip install -r requirements.txt
 python main.py [--emb_path ./embeddings/glove.6B.300d.txt] [--emb_dim 300] [--save_plot result.png] [--seed 42]
 ```
 
+## 結果
+
+![Results](results.png)
 
 ## 参考文献
 - Datasets: Hugging Face Datasets
